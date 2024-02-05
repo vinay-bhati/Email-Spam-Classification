@@ -18,10 +18,10 @@ To run this project, the following dependencies are required:
 ## Model Architecture 🏗️
 The model architecture for email spam classification typically involves the following steps:
 
-1. Data Preprocessing: The raw email data is preprocessed to remove noise, including HTML tags, special characters, and stopwords. The text data is tokenized and transformed into numerical features using techniques such as TF-IDF (Term Frequency-Inverse Document Frequency).  
-2. Model Training: Various machine learning algorithms are trained on the preprocessed data, including but not limited to Naive Bayes, Support Vector Machines (SVM), Decision Trees, Random Forest, and Gradient Boosting.  
-3. Model Evaluation: The trained models are evaluated using appropriate metrics such as accuracy, precision, recall, and F1-score on a held-out validation set or through cross-validation.  
-4. Model Deployment: Once a satisfactory model is obtained, it can be deployed to classify incoming emails as spam or ham in real-time.  
+1. **Data Preprocessing**: The raw email data is preprocessed to remove noise, including HTML tags, special characters, and stopwords. The text data is tokenized and transformed into numerical features using techniques such as TF-IDF (Term Frequency-Inverse Document Frequency).  
+2. **Model Training**: Various machine learning algorithms are trained on the preprocessed data, including but not limited to Naive Bayes, Support Vector Machines (SVM), Decision Trees, Random Forest, and Gradient Boosting.  
+3. **Model Evaluation**: The trained models are evaluated using appropriate metrics such as accuracy, precision, recall, and F1-score on a held-out validation set or through cross-validation.  
+4. **Model Deployment**: Once a satisfactory model is obtained, it can be deployed to classify incoming emails as spam or ham in real-time.  
 ## Getting Started 🛠️
 
 To get started with this project:
