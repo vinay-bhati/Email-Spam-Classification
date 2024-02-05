@@ -12,8 +12,8 @@ The dataset used in this project consists of a collection of emails labeled as s
 ## Dependencies 📦
 To run this project, the following dependencies are required:
 
-• Python 3.x
-• Libraries: numpy, pandas, scikit-learn, nltk, matplotlib, seaborn, wordcloud, xgboost
+• Python 3.x  
+• Libraries: numpy, pandas, scikit-learn, nltk, matplotlib, seaborn, wordcloud, xgboost  
 These dependencies can be easily installed using pip and the provided requirements.txt file.
 
 ## Model Architecture 🏗️
