@@ -14,7 +14,6 @@ To run this project, the following dependencies are required:
 
 • Python 3.x  
 • Libraries: numpy, pandas, scikit-learn, nltk, matplotlib, seaborn, wordcloud, xgboost  
-These dependencies can be easily installed using pip and the provided requirements.txt file.
 
 ## Model Architecture 🏗️
 The model architecture for email spam classification typically involves the following steps:
