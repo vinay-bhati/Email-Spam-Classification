@@ -26,7 +26,6 @@ The model architecture for email spam classification typically involves the foll
 
 To get started with this project:
 
-
 ## Future Work 🚀
 Potential areas for future work in email spam classification include:
 
