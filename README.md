@@ -25,7 +25,10 @@ The model architecture for email spam classification typically involves the foll
 ## Getting Started 🛠️
 
 To get started with this project:
-
+1. Clone the repository:
+```
+git clone https://github.com/vinay-bhati/Email-Spam-Classification.git
+```
 ## Future Work 🚀
 Potential areas for future work in email spam classification include:
 
